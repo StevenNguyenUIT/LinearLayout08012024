@@ -28,8 +28,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="4"
-            android:orientation="vertical"
-            android:weightSum="2">
+            android:orientation="vertical">
 
             <TextView
                 android:layout_width="match_parent"
@@ -82,8 +81,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="2"
-                android:orientation="vertical"
-                android:weightSum="2">
+                android:orientation="vertical">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -111,8 +109,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:orientation="vertical"
-                android:weightSum="3">
+                android:orientation="vertical">
 
                 <TextView
                     android:layout_width="match_parent"

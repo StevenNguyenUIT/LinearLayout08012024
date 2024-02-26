@@ -67,9 +67,9 @@
                     android:background="#FDADC8"
                     android:gravity="center"
                     android:text="4"
-                    android:textSize="50sp"
                     android:textColor="#fff"
-                    android:textStyle="bold"/>
+                    android:textSize="50sp"
+                    android:textStyle="bold" />
 
                 <TextView
                     android:layout_width="0dp"
@@ -78,12 +78,13 @@
                     android:background="#A249A2"
                     android:gravity="center"
                     android:text="5"
-                    android:textSize="50sp"
                     android:textColor="#fff"
-                    android:textStyle="bold"/>
+                    android:textSize="50sp"
+                    android:textStyle="bold" />
             </LinearLayout>
-        </LinearLayout>
-    </LinearLayout>
 
+        </LinearLayout>
+
+    </LinearLayout>
 
 </LinearLayout>
